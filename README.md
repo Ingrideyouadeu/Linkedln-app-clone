@@ -36,7 +36,7 @@ The app includes the following key sections:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/linkedin-clone.git  
+  [ git clone https://github.com/your-username/linkedin-clone.git  ](https://github.com/Ingrideyouadeu/Linkedln-app-clone.git)
    ```  
 2. Open the project in Xcode.  
 3. Build and run the app on your preferred iOS simulator or device.  
