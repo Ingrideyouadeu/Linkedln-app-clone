@@ -51,9 +51,10 @@ The app includes the following key sections:
 
 ![Simulator Screenshot - iPhone 15 Pro - 2025-01-24 at 10 36 50](https://github.com/user-attachments/assets/f130bbb5-77a7-414d-9c3e-7ee061e0fab0)
 
-
 ![Simulator Screenshot - iPhone 15 Pro - 2025-01-24 at 10 37 26](https://github.com/user-attachments/assets/2e6f7cf5-d394-408f-aeab-47adb6a748a9)
 
+
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-24 at 10 36 28](https://github.com/user-attachments/assets/8ac2a35d-c7c6-4eff-9b22-cd575995d389)
 
 
 
